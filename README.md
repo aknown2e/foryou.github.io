@@ -17,9 +17,12 @@
         </script>
 
      </head>
-     <body>
-      <img src="https://tenor.com/view/pat-hug-love-sweet-cat-gif-16286639">
-     
+   <style>
+      
+   </style>
+   <body>
+      <img src="https://media.tenor.com/5gdedXcVBgYAAAAi/pat-hug.gif">
+      <p style="color:white">Tang ina tayu nalang kasi</p>
      </body>
 
      </html>
