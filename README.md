@@ -12,7 +12,7 @@
 
        alert("What if Mahal talaga kita?")
 
-       confirm("Tanginang What yan....")
+       confirm("Tanginang What if yan....")
 
         </script>
 
