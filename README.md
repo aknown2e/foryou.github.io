@@ -4,15 +4,15 @@
 
    <head>
 
-    <title>GAGO KA BA?</title>
+    <title>"What if tayo talaga?"</title>
 
      <script type="text/javascript">
 
-       alert("bahog itlog");
+       alert("what if?");
 
-       alert("hello")
+       alert("What if Mahal talaga kita?")
 
-       confirm("heh")
+       confirm("Tanginang What yan....")
 
         </script>
 
