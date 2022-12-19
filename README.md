@@ -22,7 +22,8 @@
    </style>
    <body>
       <img src="https://media.tenor.com/5gdedXcVBgYAAAAi/pat-hug.gif">
-      <p style="color:white">Tang ina tayu nalang kasi</p>
-     </body>
+      <p style="color:green">Tang ina tayu nalang kasi</p>
+     tayu nalang
+   </body>
 
      </html>
